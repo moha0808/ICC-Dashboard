@@ -1,3 +1,4 @@
+<img width="1342" height="750" alt="Screenshot 2026-07-01 082312" src="https://github.com/user-attachments/assets/a07fa778-d15c-4dc6-9faf-691ca33f6946" />
 # ICC Cricket Analytics Dashboard
 
 An interactive Power BI dashboard designed to analyze and visualize historical ICC cricket datasets, providing deep insights into team performances, player statistics, and match outcomes.
